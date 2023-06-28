@@ -1,0 +1,65 @@
+.head{
+    width: 100%;
+    margin-top: 100px;
+   
+}
+.heading1{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+   width: 100%;
+}
+.heading1 :nth-child(1){
+    font-size: 35px;
+   transform: translateX(-10px);
+}
+.heading2{
+    font-size: 25px;
+    transform: translateY(20px);
+}
+.verticalLine {
+    border-left: 2px solid #ff0000;
+    height: 80px;
+    transform: translateY(20px);
+  }
+  .box-row1{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+     
+  }
+  .box-row2{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-top: 40px;
+  }
+
+  .box1-1{
+    width: 50%;
+    height: 50vh;
+    border-radius: 10px;
+    box-shadow: 5px 4px 4px black;
+    
+  }
+  .box-heading{
+   display: flex;
+   transform: translateX(30px);
+
+  }
+  .logo{
+    transform: translateY(20px);
+  }
+  .text{
+    transform: translateX(10px);
+    font-weight: bold;
+  }
+  .main-text{
+    
+    margin: 30px;
+    text-align: justify;
+  }
+  .main-head{
+    padding: 30px;
+  }
+

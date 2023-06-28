@@ -1,0 +1,48 @@
+.end-main{
+    width: 100%;
+}
+.end-head{
+    width: 100%;
+   
+}
+.end-head p{
+   text-align: center;
+   font-size: 34px;
+   padding-top: 80px;
+}
+.end-full{
+    width: 100%;
+    display: flex;
+}
+.end-left{
+    width: 50%;
+    padding: 30px;
+}
+.end-left p{
+    text-align: justify;
+}
+.end-right{
+    width: 50%;
+   
+}
+
+.end-row1{
+    width: 50%;
+    display: flex;
+    
+    
+}
+.end-row1 p{
+    transform: translateX(-20px);
+}
+.end1{
+   width: 50%;
+   transform: translateX(50px); 
+}
+.end2{
+    width: 50%;
+    transform: translateX(200px); 
+}
+.end-row2{
+    padding-top: 60px;
+}

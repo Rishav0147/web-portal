@@ -1,0 +1,38 @@
+.main{
+    width: 100%;
+    display: flex;
+    margin-top: 150px;
+    
+}
+.left-main{
+    width: 60%;
+   transform: translateX(30px);
+  
+}
+
+.row1-1 :nth-child(1){
+    text-decoration: underline;
+    text-underline-offset: 10px;
+   
+}
+.left-row1{
+    display: flex;
+    gap: 150px;
+}
+.left-row2{
+    display: flex;
+    gap: 150px;
+}
+.row2-1 :nth-child(1){
+    text-decoration: underline;
+    text-underline-offset: 15px;
+}
+.right-main{
+   width: 40%;
+}
+.right-main img{
+    transform: translateX(70px);
+}
+
+
+
